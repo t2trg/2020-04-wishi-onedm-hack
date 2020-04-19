@@ -91,7 +91,7 @@
   "readOnly": true
 }, 
         "Sensor_Units" : {
-  "description": "Measurement Units Definition e.g. \u201cCel\u201d for Temperature in Celsius",
+  "description": "Measurement Units Definition e.g. 'Cel' for Temperature in Celsius",
   "x-name": "Sensor Units",
   "type": "string",
   "readOnly": true
